@@ -6,7 +6,9 @@ Big-O Quiz is a web application designed to help students currently learning DSA
 
 Helping students learning DSA, creating web applications on popular Python frameworks such as Flask, Django.
 
-Screenshot_2022-09-08_01-14-59.png
+![Screenshot_2022-09-08_01-14-59](https://user-images.githubusercontent.com/57592948/193424551-fdb746a1-bf54-46e6-8884-2483ac2f0d59.png)
+
+
 
 ## Setup 🛠
 
